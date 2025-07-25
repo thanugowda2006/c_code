@@ -15,4 +15,9 @@ int main(void) {
     else
         printf("%d is odd.\n", num);
     return 0;
-}}
+#include <iostream>
+
+int main() {
+    std::cout << "Hello, World!" << std::endl;
+    return 0;
+}}}
